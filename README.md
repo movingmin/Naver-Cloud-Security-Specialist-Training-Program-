@@ -13,3 +13,7 @@ NCP DB 설정 방법
 ```
 https://brunch.co.kr/@topasvga/5263
 ```
+NCP 쿠버네티스
+```
+https://brunch.co.kr/@topasvga/5239
+```
